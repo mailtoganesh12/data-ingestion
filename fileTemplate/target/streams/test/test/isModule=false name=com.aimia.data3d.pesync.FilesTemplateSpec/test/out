@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mFilesTemplateSpec[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mMetadata column  should[0m
+[0m[[0minfo[0m] [0m   [32m+[0m match the column counts [0m
+[0m[[0minfo[0m] [0mCreate read options  should[0m
+[0m[[0minfo[0m] [0m  [32m+[0m parse valid options [0m
+[0m[[0minfo[0m] [0mFramework  should[0m
+[0m[[0minfo[0m] [0m  [32m+[0m Parse valid textfile format data[0m
+[0m[[0minfo[0m] [0m  [32m+[0m Parse valid csv format data[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for specification FilesTemplateSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 3 seconds, 587 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m4 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m
