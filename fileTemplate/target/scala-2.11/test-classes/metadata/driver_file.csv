@@ -1,3 +1,0 @@
-target_table,input_path,input_schema,input_format,output_format,write_mode,output_path,read_options,custom_query,partition_col,frequency,size
-web_track,dummy_input_path,card_key:integer-sequence_number:integer-web_event:string-access_method:string-creation_date_time:timestamp,csv,orc,append,dummy_output_path,sep#null-nullValue#\\N,select card_key#sequence_number#web_event#access_method#creation_date_time#date_format(creation_date_time#^yyyyMMdd^)creation_date_id,creation_date_id#web_event from web_track,daily,506.4 MiB
-test_csv,dummy_input_path,,csv,orc,append,dummy_outputPath,header#true,select how_many_employees_are_currently#what_industry_does_your_business#Other_industry#hash_id#Dont_own_a_business#radio from test_csv,,daily,506.4 MiB

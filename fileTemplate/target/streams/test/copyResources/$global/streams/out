@@ -1,7 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/home/ganesh/Desktop/projects/test/fileTemplate/src/test/resources/metadata,/home/ganesh/Desktop/projects/test/fileTemplate/target/scala-2.11/test-classes/metadata)[0m
-[0m[[0mdebug[0m] [0m	(/home/ganesh/Desktop/projects/test/fileTemplate/src/test/resources/textfile,/home/ganesh/Desktop/projects/test/fileTemplate/target/scala-2.11/test-classes/textfile)[0m
-[0m[[0mdebug[0m] [0m	(/home/ganesh/Desktop/projects/test/fileTemplate/src/test/resources/csv,/home/ganesh/Desktop/projects/test/fileTemplate/target/scala-2.11/test-classes/csv)[0m
-[0m[[0mdebug[0m] [0m	(/home/ganesh/Desktop/projects/test/fileTemplate/src/test/resources/metadata/driver_file.csv,/home/ganesh/Desktop/projects/test/fileTemplate/target/scala-2.11/test-classes/metadata/driver_file.csv)[0m
-[0m[[0mdebug[0m] [0m	(/home/ganesh/Desktop/projects/test/fileTemplate/src/test/resources/textfile/part-m-00000.gz,/home/ganesh/Desktop/projects/test/fileTemplate/target/scala-2.11/test-classes/textfile/part-m-00000.gz)[0m
-[0m[[0mdebug[0m] [0m	(/home/ganesh/Desktop/projects/test/fileTemplate/src/test/resources/csv/input_data.csv,/home/ganesh/Desktop/projects/test/fileTemplate/target/scala-2.11/test-classes/csv/input_data.csv)[0m
